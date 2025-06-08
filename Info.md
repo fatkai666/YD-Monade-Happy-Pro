@@ -6,6 +6,9 @@ YD-Monade-Happy-Pro - 智能临终关怀服务平台
 - **成员2:** 邮箱: <chaleeinhongkong@gmail.com>
 - **成员3:** 邮箱: <wangwenkai918@gmail.com>
 
+### 在线演示链接
+[在线演示](https://chalee-typora.oss-cn-beijing.aliyuncs.com/52_1749380577.mp4)
+
 ### 项目描述
 [<仓库地址>](https://github.com/fatkai666/YD-Monade-Happy-Pro)
 
@@ -23,9 +26,6 @@ ZangAi（藏爱）是一个基于区块链的智能临终关怀服务平台，�
 - 采用模块化设计，各合约可独立运行也可协同工作
 - 实现了完整的权限管理和安全防护机制
 - 支持多种支付方式和服务档次选择
-
-### 可用的在线演示链接
-链接: <部署完成后填写前端演示地址>
 
 ### 所有部署在Monad Testnet的合约地址
 
